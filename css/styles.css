@@ -212,13 +212,12 @@ body {
     flex: 1;
     background-color: #ffffff;
     flex-basis: calc((100% - 72px) / 4);
-    margin-bottom: 8px;
   }
-  .portfolio-box{
-    margin-bottom: 8px;
+  .portfolio-box{ 
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
-    border-top: none;  
+    border-top:none;
+    margin-bottom: 8px;
   }
   .header-logo {
     font-family: "Raleway", sans-serif;
