@@ -212,7 +212,6 @@ body {
     flex: 1;
     background-color: #ffffff;
     flex-basis: calc((100% - 72px) / 4);
-    margin-bottom: 8px;
   }
   .portfolio-box{ 
     padding: 32px 16px;
@@ -238,6 +237,7 @@ body {
     font-size: 20px;
     line-height: 1.2;
     color: #2e2f42;
+    margin-bottom: 8px;
   }
   .ourteam-list {
     background-color: #ffffff;
